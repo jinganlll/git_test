@@ -1,2 +1,2 @@
 aji 
-price : 120 USD
+price : 100 USD

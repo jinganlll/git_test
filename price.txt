@@ -1,0 +1,2 @@
+aji 
+price : 100 USD

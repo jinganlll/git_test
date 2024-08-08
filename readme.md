@@ -1,6 +1,9 @@
 test
-ignore
 
-check
+sys
 
-determine
+test
+
+price
+
+可以看到了嗎

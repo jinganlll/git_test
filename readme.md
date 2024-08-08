@@ -1,0 +1,6 @@
+test
+ignore
+
+check
+
+determine
